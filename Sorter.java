@@ -42,4 +42,7 @@ public class Sorter {
 	public static void sort(int[] array) {
 		selectionSort(array);
 	}
+	public static void insert(int[] array) {
+		selectionSort(array);
+	}
 }
